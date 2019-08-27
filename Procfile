@@ -1,0 +1,1 @@
+web: gunicorn apl_name : mysite --log-file -
